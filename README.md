@@ -1,3 +1,3 @@
-# simon-game
+# dice-game
 
 ![alt text](demo.png)
